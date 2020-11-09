@@ -52,8 +52,8 @@ pre {
   padding: 10px;
 }
 
-.hidder {
-  visibility: hidden;
+.hidden {
+  display: none;
   height: 0;
 }
 
